@@ -1,0 +1,31 @@
+{
+  "name": "discord-jogos",
+  "version": "1.0.0",
+  "description": "Uma dependência de jogos no discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThallesKraft",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "html-entities": "^2.3.2",
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThallesKraft/discord-jogos"
+  },
+
+  "keywords": [
+    "discord-games",
+    "minigames",
+    "discord",
+    "discord.js",
+    "discord-jogos"
+  ],
+  "directories": {
+    "src": "src"
+  }
+}
